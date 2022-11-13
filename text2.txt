@@ -1,0 +1,99 @@
+What Can You Do With Python?
+Ever wondered what you can do when you master Python? We explore five potential uses for this versatile programming language. Start your journey to mastery now.
+Best known as the most versatile programming language, Python is suitable for everyone and anyone from different educational and professional backgrounds. Whether you’re a data scientist, a web or software developer, or even just a technology enthusiast, Python can handle many different tasks. 
+
+As a popular general-purpose programming language, many different companies use Python, including NASA, Spotify, Google, and JP Morgan. Its versatility, open-source, and simplicity make it easy for everyone to use. If you’re curious about what you can do when you’ve mastered Python, we’ve taken a closer look at some potential projects. 
+
+What Can You Do When You Master Python For Data Science? 1. Build Awesome and Custom Data Visualizations and Dashboards
+sales dashboard
+
+One of the simpler yet most effective tools to master in Python are its data visualization and dashboarding libraries. Python dramatically extends what is possible when visualizing data. LIbraries such as matplotlib, seaborn, and plotly, provide you with the ability to create robust, complex, and highly customizable visualizations that can make any presentation or plot truly stand out. Moreover, by mastering the Dash package, you’ll be able to build incredibly rich dashboard web applications, deploy them and share them with colleagues, at zero cost. 
+
+How to get started 
+Course: Introduction to Data Visualization with Seaborn 
+Course: Introduction to Data Visualization with Matplotlib
+Course: Introduction to Data Visualization with Plotly in Python
+Course: Building Dashboards with Dash and Plotly
+Skill Track: Data Visualization with Python
+2. Automate Repetitive Data Manipulation Workflows
+the speed of cats exercise
+
+Many tasks that involve data are often a series of repetitive steps that are repeated on a daily or weekly basis. A great example of this is supply chain forecasting for example, where analysts perform weekly forecasts by following a series of data manipulation steps and simple forecasting techniques. 
+
+Python allows you to create scripts, which can be run and scheduled automatically when combined with some command-line knowledge. Moreover, with the use of functions, you can store complex data manipulation tasks usually performed on data and slightly adapt it to your needs, instead of re-creating analysis from scratch. 
+
+How to get started 
+Course: Writing Functions in Python
+Course: Data Manipulation with pandas 
+Course: Software Engineering for Data Scientists in Python
+Career Track: Python Programmer 
+3. Accelerate Financial Analysis Workflows
+Black-Scholes options pricing exercise
+
+Python is one of the most widely used tools in the worlds of finance and fintech. Practitioners from across the globe leverage Python for tasks such as portfolio analysis, quantitative risk management, credit risk modeling, forecasting, and more. 
+
+Python’s robust packages for finance provide a suite of tools to tackle the problems above and more. Moreover, by combining automation with finance tasks, you’ll be able to accelerate any financial analysis workflow. 
+
+How to get started 
+Course: Introduction to Portfolio Risk Management in Python
+Course: Quantitative Risk Management in Python
+Course: Credit Risk Modeling in Python
+Skill Track: Applied Finance in Python
+4. Build Intelligent Applications with Machine Learning
+hierarchies of stocks exercise
+
+One of Python’s main killer features is its rich and feature-packed machine learning packages. Scikit-learn, is the standard package for machine learning within the industry and is used by the majority of data scientists today. Mastering scikit-learn and machine learning will allow you to build predictive models such as customer churn models, movie recommendation systems, and more.
+
+Moreover, deep learning packages such as Tensorflow, Keras, and PyTorch, are the driving engines behind awe-inspiring machine learning use-cases such as self-driving cars, intelligent chatbots, and other cognitive applications. 
+
+How to get started 
+Course: Machine Learning with scikit-learn
+Course: Unsupervised Learning in Python
+Course: Introduction to Deep Learning in Python
+Course: Image Processing with Keras in Python
+Career Track: Machine Learning Scientist with Python
+Best known as the most versatile programming language, Python is suitable for everyone and anyone from different educational and professional backgrounds. Whether you’re a data scientist, a web or software developer, or even just a technology enthusiast, Python is can handle many different tasks. 
+
+As a popular general-purpose programming language, many different companies use Python, including NASA, Spotify, Google, and JP Morgan. Its versatility, open-source, and simplicity make it easy for everyone to use. If you’re curious about what you can do when you’ve mastered Python, we’ve taken a closer look at some potential projects. 
+
+What Can You Do When You Master Python For Data Science? 1. Build Awesome and Custom Data Visualizations and Dashboards
+sales dashboard
+
+One of the simpler yet most effective tools to master in Python are its data visualization and dashboarding libraries. Python dramatically extends what is possible when visualizing data. LIbraries such as matplotlib, seaborn, and plotly, provide you with the ability to create robust, complex, and highly customizable visualizations that can make any presentation or plot truly stand out. Moreover, by mastering the Dash package, you’ll be able to build incredibly rich dashboard web applications, deploy them and share them with colleagues, at zero cost. 
+
+How to get started 
+Course: Introduction to Data Visualization with Seaborn 
+Course: Introduction to Data Visualization with Matplotlib
+Course: Introduction to Data Visualization with Plotly in Python
+Course: Building Dashboards with Dash and Plotly
+Skill Track: Data Visualization with Python
+2. Automate Repetitive Data Manipulation Workflows
+the speed of cats exercise
+
+Many tasks that involve data are often a series of repetitive steps that are repeated on a daily or weekly basis. A great example of this is supply chain forecasting for example, where analysts perform weekly forecasts by following a series of data manipulation steps and simple forecasting techniques. 
+
+Python allows you to create scripts, which can be run and scheduled automatically when combined with some command-line knowledge. Moreover, with the use of functions, you can store complex data manipulation tasks usually performed on data and slightly adapt it to your needs, instead of re-creating analysis from scratch. 
+
+How to get started 
+Course: Writing Functions in Python
+Course: Data Manipulation with pandas 
+Course: Software Engineering for Data Scientists in Python
+Career Track: Python Programmer 
+3. Accelerate Financial Analysis Workflows
+Black-Scholes options pricing exercise
+
+Python is one of the most widely used tools in the worlds of finance and fintech. Practitioners from across the globe leverage Python for tasks such as portfolio analysis, quantitative risk management, credit risk modeling, forecasting, and more. 
+
+Python’s robust packages for finance provide a suite of tools to tackle the problems above and more. Moreover, by combining automation with finance tasks, you’ll be able to accelerate any financial analysis workflow. 
+
+How to get started 
+Course: Introduction to Portfolio Risk Management in Python
+Course: Quantitative Risk Management in Python
+Course: Credit Risk Modeling in Python
+Skill Track: Applied Finance in Python
+4. Build Intelligent Applications with Machine Learning
+hierarchies of stocks exercise
+
+One of Python’s main killer features is its rich and feature-packed machine learning packages. Scikit-learn, is the standard package for machine learning within the industry and is used by the majority of data scientists today. Mastering scikit-learn and machine learning will allow you to build predictive models such as customer churn models, movie recommendation systems, and more.
+
+Moreover, deep learning packages such as Tensorflow, Keras, and PyTorch, are the driving engines behind awe-inspiring machine learning use-cases such as self-driving cars, intelligent chatbots, and other cognitive applications. 
